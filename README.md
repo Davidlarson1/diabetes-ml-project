@@ -29,7 +29,7 @@ Sources:
 (a) Original owners: National Institute of Diabetes and Digestive and
 Kidney Diseases
 
-(b) Donor of database: Vincent Sigillito (vgs@aplcen.apl.jhu.edu)
+(b) Donor of database: Vincent Sigillito 
 Research Center, RMI Group Leader
 Applied Physics Laboratory
 The Johns Hopkins University
